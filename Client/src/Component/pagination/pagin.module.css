@@ -1,0 +1,17 @@
+
+.container{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin: 20px;
+}
+.btn_pagination {
+  display: flex;
+  gap: 10;
+  padding: 12px 18px;
+  background-color: #274eec;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+}
